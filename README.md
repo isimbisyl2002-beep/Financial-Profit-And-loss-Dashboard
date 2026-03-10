@@ -1,7 +1,7 @@
 # Financial-Profit-And-loss-Dashboard
 ## Project Introduction
 This Project is designed to help student understand how excel is used to analyze business financial perfomance
-### ** Skills You Will Obtain After Completing This Project**
+### Skills You Will Obtain After Completing This Project
 After working on this project, students will be able to:
 1. Organize financial data in Excel tables
 2. Use basic and logical Excel formulas
